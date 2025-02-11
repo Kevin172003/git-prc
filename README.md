@@ -1,2 +1,0 @@
-# git-prc
-Learning GitHub
