@@ -1,1 +1,6 @@
 secrets.txt
+
+
+#Log files
+# if you want to ignore all the files which have .txt extension
+# Do this ->       *.txt
